@@ -1,6 +1,4 @@
-### Hi I'm yuetman 👋
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/yuetman/count.svg) visitor
+### Hi I'm Yuetman 👋
 
 - 🔭 As a front-end engineer, I‘m becoming a full-stack developer.
 - 8 years of front-end development experience，good at web development
